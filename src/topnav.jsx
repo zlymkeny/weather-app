@@ -1,6 +1,6 @@
 import React from 'react'
 import logo from "./assets/6744.jpg";
-
+import './App.css'
 
 const Topnav = () => {
     return (
